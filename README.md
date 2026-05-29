@@ -46,7 +46,9 @@ ON DELETE CASCADE
 MySQL
 SQL Queries
 Relational Database Design
+
 📊 Analysis Performed
+
 1️⃣ Customer Insights
 Unique customers who placed orders
 Customers with highest orders

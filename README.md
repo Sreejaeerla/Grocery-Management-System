@@ -1,4 +1,5 @@
 Grocery Store Database Analysis using SQL
+
 📌 Project Overview
 
 This project focuses on designing and analyzing a Grocery Store Database using MySQL.
@@ -19,6 +20,7 @@ Table relationships
 Data analysis
 Business insights generation
 Sales and customer analytics
+
 🗂️ Database Schema
 
 The project contains the following tables:
@@ -86,7 +88,7 @@ Quantity vs total price relationship
 Average quantity ordered per product
 Product-wise unit price analysis
 
-🧠 Key Insights
+# Key Insights
 Certain customers contribute significantly to total revenue.
 Product categories show different pricing patterns.
 Some suppliers generate higher sales contribution.

@@ -44,6 +44,7 @@ Foreign keys are implemented using:
 
 ON UPDATE CASCADE
 ON DELETE CASCADE
+
 ⚙️ Technologies Used
 MySQL
 SQL Queries
